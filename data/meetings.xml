@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meetings>
+    <meeting>
+        <date>2024-01-05</date>
+        <time>09:00</time>
+        <person>Alice Walker</person>
+        <location>Conference Room C</location>
+    </meeting>
+    <meeting>
+        <date>2024-01-05</date>
+        <time>10:30</time>
+        <person>Bob Harris</person>
+        <location>Office 7A</location>
+    </meeting>
+    <meeting>
+        <date>2024-01-05</date>
+        <time>11:00</time>
+        <person>Carol Martinez</person>
+        <location>Cafe Red</location>
+    </meeting>
+    <meeting>
+        <date>2024-01-05</date>
+        <time>13:00</time>
+        <person>David Robinson</person>
+        <location>Main Conference Hall</location>
+    </meeting>
+    <meeting>
+        <date>2024-01-05</date>
+        <time>14:30</time>
+        <person>Eve Clark</person>
+        <location>Office 3B</location>
+    </meeting>
+    <meeting>
+        <date>2024-01-10</date>
+        <time>15:00</time>
+        <person>Frank Lewis</person>
+        <location>Conference Room D</location>
+    </meeting>
+    <meeting>
+        <date>2024-01-10</date>
+        <time>16:00</time>
+        <person>Grace Lee</person>
+        <location>Meeting Room 2</location>
+    </meeting>
+</meetings>
